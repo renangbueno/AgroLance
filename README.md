@@ -33,4 +33,7 @@ O projeto segue princípios da Programação Orientada a Objetos (POO), como:
 O código está organizado em camadas seguindo o padrão MVC:
 - `model/` – classes de modelo (ex: Cliente.java)
 - `view/` – interfaces gráficas (ex: TelaCliente.java)
-- `controller/` – lógica de acesso a dados (ex: ClienteDAO.java)
+- `controller/` – lógica de acesso a dados (ex: ClienteDAO.java)3
+
+## Link do vídeo
+https://drive.google.com/file/d/14q86m_A6Uxr1CWizRDtl0GZoj9rfV78r/view?usp=drive_web
