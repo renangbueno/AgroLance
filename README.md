@@ -5,6 +5,7 @@ Sistema de Gerenciamento de Leilões de Gado
 ## Desenvolvedores
 - Rafael Cegatti RA: 2337576
 - Renan Gabriel Bueno RA: 2454254
+- Isabely Aparecida Gomes da Costa RA: 2338541
 
 ## Descrição do Projeto
 O AgroLance é um sistema desenvolvido para facilitar a organização e execução de leilões de gado. Ele permite o cadastro de clientes, animais, eventos e lotes, além da emissão de faturas, controle de despesas e geração de relatórios financeiros e operacionais. O sistema visa oferecer maior controle, produtividade e confiabilidade na gestão de leilões agropecuários.
